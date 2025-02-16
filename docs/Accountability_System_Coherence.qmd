@@ -65,11 +65,11 @@ Section: Inspiration
 #########################################
 -->
 
-# {background-image="assets/img/ideabulb.jpg" background-size="cover" background-position="center"}
+# {background-image="assets/img/cards_on_the_table.jpg" background-size="cover" background-position="center"}
 
 ---
 
-<h2>Inspiration</h2>
+<h2>Cards on the Table</h2>
 
 - Kentucky's accountability system re-design decision to forgo growth and utilize improvement instead.
 - Countless discussions at TAC meetings where accountability system terminology is used interchangeably and incorrectly (most notably by experts in our field).
@@ -274,26 +274,6 @@ Section: Coherence
 ::::
 
 :::::
-
-# Achievement & Growth/Carlson's Table
-
----
-
-![](assets/img/CarlsonTable.png){width=100%}
-
----
-
-# sgpFlow: Connecting Processes to Impact to Outcomes
-
----
-
-![](assets/img/Growth_Achievement_Plot.png){width=100%}
-
----
-
-![](assets/img/Transition_Matrix.png){width=100%}
-
----
 
 # Accountability as Statistical Process Control
 
