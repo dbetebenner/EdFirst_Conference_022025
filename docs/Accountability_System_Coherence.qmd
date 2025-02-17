@@ -19,9 +19,14 @@ format:
     center-title-slide: false
     navigation-mode: vertical
     theme: [simple, assets/css/presentation-style.scss]
+    css:
+      - assets/css/presentation-style.scss
+      - assets/css/custom-fonts.css
     html-math-method: mathjax
     embed-resources: true
     bibliography: assets/bibliography/references.bib
+    self-contained: true
+    verbose: true
 filters:
   - reveal-header
 draft: false
@@ -61,22 +66,33 @@ The case for coherence in accountability system design
 
 <!--
 #########################################
-Section: Inspiration
+Section: Cards on the Table
 #########################################
 -->
 
-# {background-image="assets/img/cards_on_the_table.jpg" background-size="cover" background-position="center"}
+# {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" .no-logo}
 
 ---
 
-<h2>Cards on the Table</h2>
+## {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" background-opacity=0.3}
 
-- Kentucky's accountability system re-design decision to forgo growth and utilize improvement instead.
-- Countless discussions at TAC meetings where accountability system terminology is used interchangeably and incorrectly (most notably by experts in our field).
-- Numerous presentations at TAC meetings discussing poorly designed quasi-experimental studies using results from state summative assessments.
-- Characterizations of "learning loss" and "recovery" during and after the COVID-19 pandemic.
-- Frequent staff meeting discussions about accountability systems and their design.
-- 2023 Brian Gong Colloquium on accountability system design.
+<h2>My Cards</h2><i class="fa-solid fa-cards"></i>
+
+- After attending numerous sessions here in Dallas, one item of consensus I see is that no one is satisfied with the status quo of accountability systems.
+- In terms of solutions, there is as much disagreement as there is consensus on the first point.
+- I too believe that the current state of accountability systems is unsatisfactory. But for different reasons than most.
+- I don't believe we've used the high quality data from state summative assessments correctly for the past 20 years. 
+- My position is somewhat conservative: Part of the failure of accountability systems to fulfill their promise stems from a lack of coherence in the design of the systems.
+- In this presentation I want to step back and discuss accountability as part of a larger effort of which it is a part: Performance management of the education system.
+
+
+<!--
+#########################################
+Section: Performance Management
+#########################################
+-->
+
+# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
 
 <!--
 #########################################
@@ -84,11 +100,15 @@ Section: Proficiency
 #########################################
 -->
 
-# {background-image="assets/img/king.png" background-size="cover" background-position="center"}
+# {background-image="assets/img/king.jpg" background-size="cover" background-position="center"}
+
+<div style="position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0,0,0,0.0); padding: 20px; border-radius: 10px;">
+  <p class="gothic-text" style="font-size: 150px; color: gold;">Proficiency</p>
+</div>
 
 ---
 
-<h2>The Reign of Proficiency</h2>
+<p class="gothic-text" style="font-size: 48px;">The Reign of Proficiency</p>
 
 - During the last week of January, National Assessment of Educational Progress (NAEP) results were released.
 - If you read beyond the headlines, an implicit message about communicating the performance of our education system is crystal clear: Proficiency reigns supreme.
@@ -96,7 +116,7 @@ Section: Proficiency
 - Call it what you will —- proficiency, mastery, college and career readiness -— student attainment is the primary measure of educational performance.
 - Proficiency is King! [And it should be!]{style="color: red;"}
 - Why? Claiming an education system is "good" when only a small fraction of students are proficient is absurd.
-- But here’s the catch: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system.
+- But here's the catch: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system.
 - [__Death to the King! Long Live the King!__]{style="color: magenta;"}
 
 ---
@@ -274,21 +294,6 @@ Section: Coherence
 ::::
 
 :::::
-
-# Accountability as Statistical Process Control
-
----
-
-![](assets/img/Accountability_as_Statistical_Process_Control.jpg){width=100%}
-
-
-# The Importance of Equity
-
----
-
-## What is Equity?
-
-![](assets/img/EqualityEquityJustice-Lg.jpg){width=100%}
 
 ---
 
