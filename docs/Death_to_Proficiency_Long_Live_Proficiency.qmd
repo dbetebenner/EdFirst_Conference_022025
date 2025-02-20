@@ -66,26 +66,6 @@ The case for coherence in accountability system design
 
 <!--
 #########################################
-Section: Cards on the Table
-#########################################
--->
-
-# {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" background-opacity=0.3}
-
-<h2>My Cards 🂡</h2>
-
-:::{.incremental}
-
-- Spoiler alert from my first day at the conference: No one is satisfied with the current state of educational accountability systems.
-- There seems to be broad agreement that change is needed. But there is no consensus on what that change should be.
-- I, too, find the current accountability systems unsatisfactory—though likely for different reasons than most.
-- For the past 20 years, for a variety of reasons, we have failed to effectively leverage high-quality state summative assessment data we work so hard to collect.
-- In today's session, we will step back to reframe accountability as part of a broader performance management effort and examine how current accountability-driven data use hinders meaningful educational improvement.
-
-:::
-
-<!--
-#########################################
 Section: Processes versus Outcomes
 #########################################
 -->
@@ -204,6 +184,21 @@ Section: Performance Management
 
 # {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
 
+---
+
+<h2>Performance Management versus Accountability</h2>
+
+:::{.incremental}
+
+- Performance management is a comprehensive, ongoing effort to improve an organization’s effectiveness, efficiency, and outcomes.
+- Accountability is just one component of performance management—focused on measuring, reporting, and ensuring responsibility for outcomes.
+- While performance management emphasizes continuous improvement, accountability primarily evaluates past performance.
+- Effective performance management uses accountability as a tool, but also incorporates support, innovation, and strategic planning.
+- Accountability without performance management can lead to compliance-driven behaviors rather than meaningful improvement.
+- A coherent system integrates accountability within a broader performance management framework, ensuring data is used to drive improvement rather than just to judge performance.
+
+:::
+
 <!--
 #########################################
 Section: Proficiency
@@ -265,14 +260,6 @@ Section: Proficiency
 - But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
 
 ---
-
-<h2>The Solution</h2>
-
-- In the following slides I will discuss a framework for accountability systems that I believe is more coherent and effective.
-- Beginning with a formal discussion of terminology so that there is a shared understanding of the terms used, I will discuss how these components fit together.
-- Once we understand how the components fit together, I will discuss the analytic framework sgpFlow that connects assessment results from large-scale assessments in a coherent fashion.
-- Despite just beginning to investigate this framework, I believe it has the potential to transform performance management in education and the accountability systems that support that effort. 
-
 
 <!--
 #########################################
