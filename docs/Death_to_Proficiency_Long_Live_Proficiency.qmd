@@ -70,137 +70,33 @@ Section: Cards on the Table
 #########################################
 -->
 
-# {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" .no-logo}
+# {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" background-opacity=0.3}
 
----
+<h2>My Cards 🂡</h2>
 
-## {background-image=assets/img/cards_on_the_table.jpg background-size="cover" background-position="center" background-opacity=0.3}
+:::{.incremental}
 
-<h2>My Cards</h2><i class="fa-solid fa-cards"></i>
+- Spoiler alert from my first day at the conference: No one is satisfied with the current state of educational accountability systems.
+- There seems to be broad agreement that change is needed. But there is no consensus on what that change should be.
+- I, too, find the current accountability systems unsatisfactory—though likely for different reasons than most.
+- For the past 20 years, for a variety of reasons, we have failed to effectively leverage high-quality state summative assessment data we work so hard to collect.
+- In today's session, we will step back to reframe accountability as part of a broader performance management effort and examine how current accountability-driven data use hinders meaningful educational improvement.
 
-- After attending numerous sessions here in Dallas, one item of consensus I see is that no one is satisfied with the status quo of accountability systems.
-- In terms of solutions, there is as much disagreement as there is consensus on the first point.
-- I too believe that the current state of accountability systems is unsatisfactory. But for different reasons than most.
-- I don't believe we've used the high quality data from state summative assessments correctly for the past 20 years. 
-- My position is somewhat conservative: Part of the failure of accountability systems to fulfill their promise stems from a lack of coherence in the design of the systems.
-- In this presentation I want to step back and discuss accountability as part of a larger effort of which it is a part: Performance management of the education system.
-
+:::
 
 <!--
 #########################################
-Section: Performance Management
+Section: Processes versus Outcomes
 #########################################
 -->
 
-# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
-
-<!--
-#########################################
-Section: Proficiency
-#########################################
--->
-
-# {background-image="assets/img/king.jpg" background-size="cover" background-position="center"}
-
-<div style="position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0,0,0,0.0); padding: 20px; border-radius: 10px;">
-  <p class="gothic-text" style="font-size: 150px; color: gold;">Proficiency</p>
-</div>
-
----
-
-<p class="gothic-text" style="font-size: 48px;">The Reign of Proficiency</p>
-
-- During the last week of January, National Assessment of Educational Progress (NAEP) results were released.
-- If you read beyond the headlines, an implicit message about communicating the performance of our education system is crystal clear: Proficiency reigns supreme.
-- Since at least the NCLB era, education policy has been fixated on proficiency levels and their trends (i.e., achievement/attainment). 
-- Call it what you will —- proficiency, mastery, college and career readiness -— student attainment is the primary measure of educational performance.
-- Proficiency is King! [And it should be!]{style="color: red;"}
-- Why? Claiming an education system is "good" when only a small fraction of students are proficient is absurd.
-- But here's the catch: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system.
-- [__Death to the King! Long Live the King!__]{style="color: magenta;"}
-
----
-
-<h2>Death to Proficiency!</h2>
-
-- Since at least the No Child Left Behind (NCLB) era, attainment has had its detractors. 
-- Rightly, these critics have pointed out that using attainment for accountability purposes (e.g., school ratings) is problematic due to selection bias -- students are not randomly assigned to schools.
-- The solution to this problem has been to incorporate growth or value-added into the accountability system.
-- Over the last 15 years, one of the primary foci of accountability system design has been weighting attainment and growth components to create more "valid" accountability indicator systems.  
-- The result, I would argue, is a design process that treats these two components like food items at a buffet.
-- And today several efforts to create more valid accountability systems promote adding more components.
-- The result of this process of adding more components, I contend, is incoherence in the design of accountability systems.
-
----
-
-<h2>Attainment & Learning</h2>
-
-- And as indicators used for accountability have increased, a significant part of the ensuing incoherence has been the imprecise, inconsistent, and incorrect use of terminology.
-- Just considering results from large-scale assessments, the number of different terms is daunting:
-  - Achievement, proficiency, attainment, status, and mastery are several terms frequently encountered to discuss what I refer to as _attainment_, a characterization of what a student or groups of students know and can do at a point in time.
-  - Growth, value-added, learning, SGPs, value-tables, content-referenced growth are several terms used to characterize student growth of a student or group of students.
-  - Improvement is a term that seems to be used to describe a beneficial change (either for a student or a group of students). 
-  - Acceleration is a term that came to prominence during the pandemic to motivate goals to correct learning loss by accelerating student learning.
-- Having attended hundreds of meetings and presentations over the last decade, I can't count the number of times I've heard several of these terms used in ways that have led me to believe there is a fundamental lack of understanding about how large scale assessment results should be used.
-
----
-
-## {background-image="assets/img/attainment_learning.png" background-size="cover" background-position="center" background-opacity="0.3"}
-
-<h2>Attainment & Learning</h2>
-
-- Another example of of problematic terminology is the phrase "Assessment of learning".
-- Its problematic nature, however, helps illustrate a relationship necessary to begin fixing the problem. 
-- Learning is an unobserved process that occurs over time in the mind of the student.  
-- Assessments measure (or indicate) what a student knows and can do at a point in time.
-- We infer learning by observing attainment (either formally or informally) over time. 
-  - _Learning/Growth_ &nbsp; is a leading indicator of attainment (SGPs, for example, are a coarse quantification of learning).
-  - _Attainment_ &nbsp; is a lagging indicator of learning/growth.
-
-
----
-
-<h2>Coherence in Accountability System Design</h2>
-
-- There is no shortage of criticism of current accountability systems.
-- A substantial part of many criticisms is the over-reliance on the results from large-scale assessments.
-- I would argue that the root of the problem isn't the over-reliance on the results from large-scale assessments, but rather the incoherent way in which results from large-scale assessments are utilized.
-- Accountability systems are the result of policy initiatives: A coherent accountability system ideally connects the larger policy goals of the education system (increased rates of proficiency and the closing of achievement gaps) with the processes associated with achieving (or not achieving) those goals.
-- Even with coherence, there is no guarantee that the education system will achieve the policy goals.
-- But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
-
----
-
-<h2>The Solution</h2>
-
-- In the following slides I will discuss a framework for accountability systems that I believe is more coherent and effective.
-- Beginning with a formal discussion of terminology so that there is a shared understanding of the terms used, I will discuss how these components fit together.
-- Once we understand how the components fit together, I will discuss the analytic framework sgpFlow that connects assessment results from large-scale assessments in a coherent fashion.
-- Despite just beginning to investigate this framework, I believe it has the potential to transform performance management in education and the accountability systems that support that effort. 
-
-
-<!--
-#########################################
-Section: Coherence
-#########################################
--->
-
-# {background-image="assets/img/coherence.jpg" background-size="cover" background-position="center"}
-
----
-
-<h2>Coherence</h2>
-
-- The term [__coherence__]{style="color: magenta;"} is not frequently used in discussions of accountability systems and when it is, it is often not clearly defined.
-- What is coherence with respect to accountability systems?
-- What is incoherent about current accountability systems?
-- Why is coherence important?
-- How can coherence be instantiated in accountability systems?
-- What benefits does coherence provide?
+# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
 
 ---
 
 <h2>Gill's Framework</h2>
+
+:::{.incremental}
 
 - Brian Gill's [-@Gill:2022] paper, [_What should the future of educational accountability look like?,_]{style="color: blue;"} introduces a useful framework for indicators used in accountability systems.
 - Three Core Components of Gill's Framework
@@ -212,6 +108,8 @@ Section: Coherence
   - **Valid:** Accurately measure what they claim to measure without systematic bias.
   - **Reliable:** Stable and consistent over time to avoid misdiagnosis or loss of credibility.
   - **Robust:** Resistant to unintended consequences and manipulation while capturing critical dimensions of educational quality.
+
+:::
 
 ---
 
@@ -278,7 +176,7 @@ Section: Coherence
 
 :::{.incremental}
 
-* I've added to dashed lines to the figure indicating proper and improper connections between the components.
+* I've added to dashed lines to the figure indicating proper (coherent) and improper (incoherent) connections between the components.
 * The red dashed line connecting outcomes to processes is improper but is done repeatedly even by experts in our field.
 * The black dashed line connecting growth to processes is the proper connection but is rarely used in accountability contexts.
   * Examining the impact of processes has been the purview of educational research and program evaluation for over a century.
@@ -295,7 +193,111 @@ Section: Coherence
 
 :::::
 
+-
+
+
+<!--
+#########################################
+Section: Performance Management
+#########################################
+-->
+
+# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
+
+<!--
+#########################################
+Section: Proficiency
+#########################################
+-->
+
+# {background-image="assets/img/king.jpg" background-size="cover" background-position="center"}
+
+<div style="position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0,0,0,0.0); padding: 20px; border-radius: 10px;">
+  <p class="gothic-text" style="font-size: 150px; color: gold;">Proficiency</p>
+</div>
+
 ---
+
+<p class="gothic-text" style="font-size: 48px;">The Reign of Proficiency</p>
+
+- During the last week of January, National Assessment of Educational Progress (NAEP) results were released.
+- If you read beyond the headlines, an implicit message about communicating the performance of our education system is crystal clear: Proficiency reigns supreme.
+- Since at least the NCLB era, education policy has been fixated on proficiency levels and their trends (i.e., achievement/attainment). 
+- Call it what you will —- proficiency, mastery, college and career readiness -— student attainment is the primary measure of educational performance.
+- [__Proficiency is King!__]{style="color: gold;"} [And it should be!]{style="color: red;"}
+- Why? Claiming an education system is "good" when only a small fraction of students are proficient is absurd.
+- But here's the catch: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system.
+- [__Death to the King! Long Live the King!__]{style="color: magenta;"}
+
+---
+
+<h2>Death to Proficiency!</h2>
+
+- Since at least the No Child Left Behind (NCLB) era, attainment has had its detractors. 
+- Rightly, these critics have pointed out that using attainment for accountability purposes (e.g., school ratings) is problematic due to selection bias -- students are not randomly assigned to schools.
+- The solution to this problem has been to incorporate growth or value-added into the accountability system.
+- Over the last 15 years, one of the primary foci of accountability system design has been weighting attainment and growth components to create more "valid" accountability indicator systems.  
+- The result, I would argue, is a design process that treats these two components like food items at a buffet.
+- And today several efforts to create more valid accountability systems promote adding more components.
+- The result of this process of adding more components, I contend, is incoherence in the design of accountability systems.
+
+---
+
+<h2>Attainment & Learning</h2>
+
+- And as indicators used for accountability have increased, a significant part of the ensuing incoherence has been the imprecise, inconsistent, and incorrect use of terminology.
+- Just considering results from large-scale assessments, the number of different terms is daunting:
+  - Achievement, proficiency, attainment, status, and mastery are several terms frequently encountered to discuss what I refer to as _attainment_, a characterization of what a student or groups of students know and can do at a point in time.
+  - Growth, value-added, learning, SGPs, value-tables, content-referenced growth are several terms used to characterize student growth of a student or group of students.
+  - Improvement is a term that seems to be used to describe a beneficial change (either for a student or a group of students). 
+  - Acceleration is a term that came to prominence during the pandemic to motivate goals to correct learning loss by accelerating student learning.
+- Having attended hundreds of meetings and presentations over the last decade, I can't count the number of times I've heard several of these terms used in ways that have led me to believe there is a fundamental lack of understanding about how large scale assessment results should be used.
+
+---
+
+<h2>Coherence in Accountability System Design</h2>
+
+- There is no shortage of criticism of current accountability systems.
+- A substantial part of many criticisms is the over-reliance on the results from large-scale assessments.
+- I would argue that the root of the problem isn't the over-reliance on the results from large-scale assessments, but rather the incoherent way in which results from large-scale assessments are utilized.
+- Accountability systems are the result of policy initiatives: A coherent accountability system ideally connects the larger policy goals of the education system (increased rates of proficiency and the closing of achievement gaps) with the processes associated with achieving (or not achieving) those goals.
+- Even with coherence, there is no guarantee that the education system will achieve the policy goals.
+- But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
+
+---
+
+<h2>The Solution</h2>
+
+- In the following slides I will discuss a framework for accountability systems that I believe is more coherent and effective.
+- Beginning with a formal discussion of terminology so that there is a shared understanding of the terms used, I will discuss how these components fit together.
+- Once we understand how the components fit together, I will discuss the analytic framework sgpFlow that connects assessment results from large-scale assessments in a coherent fashion.
+- Despite just beginning to investigate this framework, I believe it has the potential to transform performance management in education and the accountability systems that support that effort. 
+
+
+<!--
+#########################################
+Section: Coherence
+#########################################
+-->
+
+# {background-image="assets/img/coherence.jpg" background-size="cover" background-position="center"}
+
+---
+
+<h2>Coherence</h2>
+
+- The term [__coherence__]{style="color: magenta;"} is not frequently used in discussions of accountability systems and when it is, it is often not clearly defined.
+- What is coherence with respect to accountability systems?
+- What is incoherent about current accountability systems?
+- Why is coherence important?
+- How can coherence be instantiated in accountability systems?
+- What benefits does coherence provide?
+
+---
+
+
+
+--
 
 # References
 
